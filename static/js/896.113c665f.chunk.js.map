@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/896.113c665f.chunk.js","mappings":"yIAEA,MAMA,EANiBA,KAEbC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,Y","sources":["views/workPage/index.jsx"],"sourcesContent":["import React from 'react'\n\nconst WorkPage = () => {\n  return (\n    <div>WorkPage</div>\n  )\n}\n\nexport default WorkPage"],"names":["WorkPage","_jsx","children"],"sourceRoot":""}

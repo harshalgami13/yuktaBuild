@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrah=self.webpackChunkrah||[]).push([[896],{896:(e,a,r)=>{r.r(a),r.d(a,{default:()=>h});r(43);var s=r(579);const h=()=>(0,s.jsx)("div",{children:"WorkPage"})}}]);
+//# sourceMappingURL=896.113c665f.chunk.js.map
